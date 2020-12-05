@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+.Header-form {
+    overflow: hidden;
+    
+}
+.Header-form h1 {
+    float: left;
+    display: block;
+    color: #FD7272;
+    text-align: center;
+    padding: 30px 18px;
+    font-size: 1.4rem;
+    
+}
+.Header-form .form {
+    float: right;
+    border: none;
+}
+.input-text {
+    padding: 15px;
+    margin-top: 30px;
+    font-size: 17px;
+    width: 800px;
+    background-color: #001014;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #FD7272;
+    margin-right: 20px;
+    color: white;
+}
+.Header-form .form .input-sub {
+    float: right;
+    padding: 9px 10px;
+    margin-top: 30px;
+    margin-right: 25px;
+    background: #FD7272;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+    width: 70px;
+    font-weight: bold;    
+    color: white;
+    outline: none;
+}
+  
